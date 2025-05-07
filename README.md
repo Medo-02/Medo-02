@@ -1,8 +1,8 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Welcome to my account 👋, I'm Mohammed Alzowaidi</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Github Actions**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Frontend development on Angular or Flutter**
 
