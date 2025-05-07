@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **Frontend development on Angular or Flutter**
-
 - 📫 How to reach me **mohammedalzowaid@gmail.com**
 
 ---
